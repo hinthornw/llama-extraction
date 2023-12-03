@@ -1,5 +1,7 @@
 # Prompt Engineering Extraction Experiments
 
+(This content taken from [the notebook](./llama_extraction.ipynb))
+
 This benchmark is interesting for a couple of reasons. It's relatively straightforward to saturate by building a model for each field and ensembling, but to have the model output it
 all in one go is actually a challenge since it involves:
 
